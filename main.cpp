@@ -16,7 +16,6 @@ int main()
 		#define MACRO(x) printf("%d\n", x);
 	#include "loop.h"
 	
-	getch();
 	return 0;
 
 }
